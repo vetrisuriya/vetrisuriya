@@ -16,3 +16,5 @@ Javascript, HTML, CSS, PHP, MySQL, Jquery
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetrisuriya)](https://github.com/vetrisuriya/github-readme-stats)
 
 ![Vetri Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vetrisuriya&show_icons=true&theme=gotham)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vetrisuriya.vetrisuriya&left_color=green&right_color=red)
