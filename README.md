@@ -31,17 +31,17 @@ Web Designer/Developer with 4+ years of experience in the design and development
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td><td><b>React PullToRefresh component</b></td>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td><td><b>45</b></td>
     </tr><tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td><td><b>React PullToRefresh component</b></td>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td><td><b>3</b></td>
     </tr><tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td><td><b>React PullToRefresh component</b></td>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td><td><b>25</b></td>
     </tr>
   </tbody>
-</table>
+</table>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetrisuriya)](https://github.com/vetrisuriya/github-readme-stats)
 
 ## 🛠 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetrisuriya)](https://github.com/vetrisuriya/github-readme-stats) ![Vetri Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vetrisuriya&show_icons=true&theme=gotham)
+![Vetri Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vetrisuriya&show_icons=true&theme=gotham)
 
 ## 🛠 Recent Works
 <a href="https://github.com/vetrisuriya/edie-homepage">
