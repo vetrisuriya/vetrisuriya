@@ -39,9 +39,10 @@ Web Designer/Developer with 4+ years of experience in the design and development
     </tr>
   </tbody>
 </table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetrisuriya)](https://github.com/vetrisuriya/github-readme-stats)
+
 
 ## 🛠 Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetrisuriya)](https://github.com/vetrisuriya/github-readme-stats)
 ![Vetri Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vetrisuriya&show_icons=true&theme=gotham)
 
 ## 🛠 Recent Works
