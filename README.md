@@ -38,7 +38,8 @@ Web Designer/Developer with 4+ years of experience in the design and development
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td><td><b>25</b></td>
     </tr>
   </tbody>
-</table>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetrisuriya)](https://github.com/vetrisuriya/github-readme-stats)
+</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetrisuriya)](https://github.com/vetrisuriya/github-readme-stats)
 
 ## 🛠 Github Stats
 ![Vetri Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vetrisuriya&show_icons=true&theme=gotham)
