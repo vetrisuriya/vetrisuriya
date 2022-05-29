@@ -24,9 +24,12 @@ Web Designer/Developer with 4+ years of experience in the design and development
 ## Experience
 [![Experience](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=vetrisuriya&branding=false&style=--item-bg-color:white;)](https://profile.codersrank.io/user/vetrisuriya)
 
-
+## Education
+[![Education](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=vetrisuriya&branding=false&style=--item-bg-color:white;)](https://profile.codersrank.io/user/vetrisuriya)
 
 ## Github Stats
+[![Skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vetrisuriya&show-other-skills=true&branding=false&style=--item-bg-color:white;)](https://profile.codersrank.io/user/vetrisuriya)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetrisuriya)](https://github.com/vetrisuriya/github-readme-stats)
 
 ![Vetri Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vetrisuriya&show_icons=true&theme=gotham)
