@@ -1,4 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/vetrisuriya/vetrisuriya?style=flat-square&labelColor=rgb(12,16,20)&color=rgb(37,167,136))](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/vetrisuriya?style=flat-square&labelColor=rgb(12,16,20)&color=rgb(37,167,136))](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/vetrisuriya?style=flat-square&labelColor=rgb(12,16,20)&color=rgb(37,167,136))](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/vetrisuriya?style=flat-square&labelColor=rgb(12,16,20)&color=rgb(37,167,136))](https://badges.pufler.dev)
 
 # Hi, I'm Vetri Suriya! 👋
 Web Designer/Developer with 4+ years of experience in the design and development of innovative static and dynamic websites.
